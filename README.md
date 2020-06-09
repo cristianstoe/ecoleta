@@ -1,7 +1,6 @@
 # Ecoleta
 
 Projeto desenvolvido durante a Next Level Week - Starter - da @RocketSeat.
-O professor @maykbrito foi quem ministrou essa excelente aplicação.
 
 A ideia é criar uma aplicação onde instituições podem cadastrar pontos de coleta e itens de coleta para reciclagem e os usuários podem procurar esses pontos por cidades.
 
